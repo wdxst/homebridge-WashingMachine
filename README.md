@@ -1,0 +1,2 @@
+# homebridge-WashingMachine
+mi-WashingMachine
