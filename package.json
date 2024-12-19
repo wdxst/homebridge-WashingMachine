@@ -1,0 +1,14 @@
+{
+  "name": "homebridge-WashingMachine",
+  "engines": {
+    "node": ">=6.0.0",
+    "homebridge": ">=0.4.20"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "dependencies": {
+    "request": "^2.88.2",
+    "silly-datetime": "^0.1.2"
+  }
+}
